@@ -1,0 +1,20 @@
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+body{
+    text-align: center;
+    color: blue;
+    background-color: pink;
+}
+
+.nameOfObjects{
+    color: yellow;
+}
+
+#camera{
+    border:2px ridge blue;
+    width:350px;
+    height:300px;
+}
